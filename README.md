@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Shayna 👋
 🔭 I’m currently working on a personal website.<br>🌱 I’m currently learning DevOps.<br>💬 Ask me about anything!<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaynabergeron1) 
