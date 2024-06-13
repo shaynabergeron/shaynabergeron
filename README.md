@@ -1,5 +1,5 @@
 # Hi, I'm Shayna 👋
-🔭 I’m currently working on a personal website/blog.<br>🌱 I’m currently learning about DevOps.<br>💬 Ask me about anything!<br>
+🔭 I’m currently working on various web application projects utilizaing React.js and different UI tools/blog.<br>🌱 I’m currently learning about QA automation technologies studying for the AWS Solutions Architect exam.<br>💬 Ask me about anything!<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaynabergeron1) 
 # 💻 Tech Stack:
