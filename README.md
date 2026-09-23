@@ -1,5 +1,8 @@
 # Hi, I'm Shayna 👋
-🔭 I’m currently working on various web application projects utilizaing React.js and different UI tools/blog.<br>🌱 I’m currently learning about QA automation technologies studying for the AWS Solutions Architect exam.<br>💬 Ask me about anything!<br>
+🔭 I’m currently building accessible, user-focused web applications with React, TypeScript, .NET/C#, Eleventy, CloudCannon, and Azure.<br>
+🌱 I’m expanding my knowledge of software architecture, cloud infrastructure, system design, AWS, Terraform, and scalable application development.<br>
+🛠️ I enjoy working across frontend development, APIs, UI/UX, accessibility, and developer-focused tooling.<br>
+💬 Ask me about web development, cloud, accessibility, APIs, or software architecture!<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaynabergeron1) 
 # 💻 Tech Stack:
