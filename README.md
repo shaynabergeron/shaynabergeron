@@ -74,56 +74,12 @@
 
 ---
 
-## 🧠 Currently Learning
-
-```text
-Software Architecture  ███████████████░░░░░
-System Design          ██████████████░░░░░░
-AWS                    ███████████░░░░░░░░░
-Terraform              ██████████░░░░░░░░░░
-Microservices          ███████████░░░░░░░░░
-```
-
----
-
-## 🏗️ Developer Interests
-
-```csharp
-var interests = new[]
-{
-    "Software Architecture",
-    "Cloud Infrastructure",
-    "API Design",
-    "Frontend Architecture",
-    "Accessibility",
-    "Developer Experience",
-    "UI/UX",
-    "Automation"
-};
-```
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=shaynabergeron&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Shayna's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=shaynabergeron&theme=tokyonight&hide_border=true"
-    alt="Shayna's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaynabergeron&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Shayna's Top Languages"
   />
 </p>
 
@@ -137,19 +93,6 @@ I’m especially interested in understanding not just **how to build software**,
 
 ---
 
-## ⚡ A Little More About Me
-
-- 🎨 I enjoy combining **development and UI/UX design**
-- ♿ Accessibility is a major part of how I approach web development
-- 🧠 I love learning how large applications are structured behind the scenes
-- 🛠️ I enjoy turning complicated workflows into simpler developer and user experiences
-- ☁️ Currently diving deeper into **cloud architecture and infrastructure as code**
-- 🔌 I enjoy building and integrating **REST APIs**
-- 🧩 I like creating reusable components and maintainable application structures
-- 🚀 Always looking for something new to build
-
----
-
 ## 🎯 Current Goals
 
 - 🏗️ Grow deeper into **software architecture and system design**
@@ -159,23 +102,3 @@ I’m especially interested in understanding not just **how to build software**,
 - 🔌 Build more production-style APIs and distributed applications
 - 🧠 Learn more about **microservices, distributed systems, and scalable architecture**
 - 📚 Continue developing the skills needed to move into a **Software Architect** role
-
----
-
-## 🛠️ How I Like to Build
-
-```text
-Accessible by default
-Clean and reusable components
-Simple developer experiences
-Maintainable architecture
-Strong separation of concerns
-Automated where possible
-Designed with the user in mind
-```
-
----
-
-<p align="center">
-  <i>Building accessible software today while learning how to architect the systems of tomorrow.</i>
-</p>
