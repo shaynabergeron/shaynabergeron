@@ -1,15 +1,181 @@
 # Hi, I'm Shayna 👋
-🔭 I’m currently building accessible, user-focused web applications with React, TypeScript, .NET/C#, Eleventy, CloudCannon, and Azure.<br>
-🌱 I’m expanding my knowledge of software architecture, cloud infrastructure, system design, AWS, Terraform, and scalable application development.<br>
-🛠️ I enjoy working across frontend development, APIs, UI/UX, accessibility, and developer-focused tooling.<br>
-💬 Ask me about web development, cloud, accessibility, APIs, or software architecture!<br>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaynabergeron1) 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shaynabergeron&theme=tokyonight&hide_border=false)<br/>
+💻 **Software Developer | UI/UX Enthusiast | Aspiring Software Architect**
 
+🔭 I’m currently building accessible, user-focused web applications with **React, TypeScript, .NET/C#, Eleventy, CloudCannon, and Azure**.<br>
+🌱 I’m expanding my knowledge of **software architecture, cloud infrastructure, system design, AWS, Terraform, and scalable application development**.<br>
+🛠️ I enjoy working across **frontend development, APIs, UI/UX, accessibility, and developer-focused tooling**.<br>
+🎯 My long-term goal is to help design and lead scalable software systems from architecture through implementation.<br>
+💬 Ask me about **web development, cloud, accessibility, APIs, or software architecture!**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaynabergeron1)
+
+---
+
+## 🚀 What I'm Focused On
+
+- 🏗️ Software Architecture & System Design
+- ☁️ Cloud Development with Azure & AWS
+- ⚛️ React & TypeScript Applications
+- 🔷 C# / .NET APIs & Backend Development
+- ♿ Accessible & Inclusive Web Experiences
+- 🧩 Reusable Components & Design Systems
+- ⚙️ CI/CD, Automation & Developer Experience
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Frameworks & Libraries
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Eleventy](https://img.shields.io/badge/Eleventy-000000?style=for-the-badge&logo=eleventy&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Databases & Services
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Software Architecture  ███████████████░░░░░
+System Design          ██████████████░░░░░░
+AWS                    ███████████░░░░░░░░░
+Terraform              ██████████░░░░░░░░░░
+Microservices          ███████████░░░░░░░░░
+```
+
+---
+
+## 🏗️ Developer Interests
+
+```csharp
+var interests = new[]
+{
+    "Software Architecture",
+    "Cloud Infrastructure",
+    "API Design",
+    "Frontend Architecture",
+    "Accessibility",
+    "Developer Experience",
+    "UI/UX",
+    "Automation"
+};
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shaynabergeron&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Shayna's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=shaynabergeron&theme=tokyonight&hide_border=true"
+    alt="Shayna's GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaynabergeron&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Shayna's Top Languages"
+  />
+</p>
+
+---
+
+## 🧭 Where I'm Headed
+
+I'm working toward becoming a **Software / Developer Platform Architect**, combining hands-on development experience with **system design, cloud infrastructure, application architecture, and technical leadership**.
+
+I’m especially interested in understanding not just **how to build software**, but **why a particular architecture, technology, or design decision makes sense**.
+
+---
+
+## ⚡ A Little More About Me
+
+- 🎨 I enjoy combining **development and UI/UX design**
+- ♿ Accessibility is a major part of how I approach web development
+- 🧠 I love learning how large applications are structured behind the scenes
+- 🛠️ I enjoy turning complicated workflows into simpler developer and user experiences
+- ☁️ Currently diving deeper into **cloud architecture and infrastructure as code**
+- 🔌 I enjoy building and integrating **REST APIs**
+- 🧩 I like creating reusable components and maintainable application structures
+- 🚀 Always looking for something new to build
+
+---
+
+## 🎯 Current Goals
+
+- 🏗️ Grow deeper into **software architecture and system design**
+- ☁️ Continue learning **AWS, Azure, and cloud architecture**
+- ⚙️ Build more projects using **Terraform and Infrastructure as Code**
+- 🔷 Strengthen my **C# / .NET backend development** skills
+- 🔌 Build more production-style APIs and distributed applications
+- 🧠 Learn more about **microservices, distributed systems, and scalable architecture**
+- 📚 Continue developing the skills needed to move into a **Software Architect** role
+
+---
+
+## 🛠️ How I Like to Build
+
+```text
+Accessible by default
+Clean and reusable components
+Simple developer experiences
+Maintainable architecture
+Strong separation of concerns
+Automated where possible
+Designed with the user in mind
+```
+
+---
+
+<p align="center">
+  <i>Building accessible software today while learning how to architect the systems of tomorrow.</i>
+</p>
